@@ -1,5 +1,5 @@
 # Friends-Connection
-A friendship graph program mimicking friendships on social media platforms such as Facebook, etc.
+
 In this program, you will implement some useful algorithms for graphs that represent friendships (e.g. Facebook). A friendship graph is an undirected graph on the edges. It is a simple graph because there are no self loops, or multiple edges.
 
 The vertices in the graphs for this assignment represent two kinds of people: students and non-students. Each vertex will store the name of the person. If the person is a student, the name of the school will also be stored.
